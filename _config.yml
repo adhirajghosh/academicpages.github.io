@@ -88,7 +88,7 @@ author:
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=t_Q2mvsAAAAJ"
   email            : "adhirajghosh1998@gmail.com"
-  researchgate     : "https://www.researchgate.net/profile/Adhiraj_Ghosh"
+  #researchgate     : "https://www.researchgate.net/profile/Adhiraj_Ghosh"
   uri              :
   bitbucket        :
   codepen          :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
